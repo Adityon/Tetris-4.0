@@ -2,4 +2,4 @@
 
 A tetris game made with KaplayJS and love. (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)
 
-   By Sanjeev and Adithya (⁠☆⁠▽⁠☆⁠)
+   By Sanjeev and Aditya(⁠☆⁠▽⁠☆⁠)
