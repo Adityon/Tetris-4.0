@@ -1,5 +1,5 @@
 <h1>TetrisJS</h1>
 
-A tetris game made with KaplayJS and love. (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)
+A tetris game made with Python and love. (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)
 
-   By Sanjeev and Aditya(⁠☆⁠▽⁠☆⁠)
+   By Aditya(⁠☆⁠▽⁠☆⁠)
