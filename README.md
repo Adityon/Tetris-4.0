@@ -2,4 +2,4 @@
 
 A tetris game made with Python and love. (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)
 
-By Nobody
+By Adityon
